@@ -9766,7 +9766,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement;
 
 /***/ }),
 
-/***/ 3:
+/***/ 2:
 /*!*********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fdetail&absolutePagePath=C%3A%5CUsers%5CComputador%5Cworkflow%5Cssr-project%5Cpages%5Cdetail.js ***!
   \*********************************************************************************************************************************************/
@@ -9789,5 +9789,5 @@ module.exports = dll_01f9a3fa864a7b7414d8;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=detail.js.map

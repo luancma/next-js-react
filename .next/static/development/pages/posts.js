@@ -14359,7 +14359,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement;
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!*******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fposts&absolutePagePath=C%3A%5CUsers%5CComputador%5Cworkflow%5Cssr-project%5Cpages%5Cposts.js ***!
   \*******************************************************************************************************************************************/
@@ -14382,5 +14382,5 @@ module.exports = dll_01f9a3fa864a7b7414d8;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=posts.js.map
