@@ -13,7 +13,7 @@
   },
   "scripts": {
     "dev": "node server.js",
-    "start": "NODE_ENV=production next start",
+    "start": "next start",
     "build": "next build"
   }
 }

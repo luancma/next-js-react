@@ -1861,7 +1861,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
   componentDidMount() {
     console.log(`${window.location.pathname}`);
-    react_ga__WEBPACK_IMPORTED_MODULE_1___default.a.initialize('ID_ANALYTICS');
+    react_ga__WEBPACK_IMPORTED_MODULE_1___default.a.initialize('UA-148480475-1');
     react_ga__WEBPACK_IMPORTED_MODULE_1___default.a.pageview(window.location.pathname);
   }
 
