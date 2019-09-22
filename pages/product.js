@@ -11,8 +11,9 @@ const Product = () => (
 
         'width': '200px'
       }}>
-        <h2>Suplemento Growth </h2>
+        <h2>(TOP) Whey Protein Concentrado (1KG) - Growth Supplements</h2>
         <h3>Categoria: <strong>Whey Protein</strong></h3>
+        <h3>Growth Supplements</h3>
 
         <img src="https://www.gsuplementos.com.br/upload/growth-layout-personalizado/produto/185/01-desk.png"  alt="Luan Suplementos - Grow"width="200"/>
       <p>Whey Protein Growth é a proteína ideal para quem treina hipertrofia e quer ganhar massa muscular.
