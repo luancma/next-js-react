@@ -9,6 +9,8 @@ const Product = () => (
       <>
       <Head>
         <title>Luan Suplementos - (TOP) Whey Protein Concentrado (1KG) - Growth Supplements</title>
+        <meta name="description" content="Detalhes do Whey Protein Growth" />
+        <meta name="keywords" content="growth, suplementos, whey protein, bodybuilder, alimento, treino" />
       </Head>
       <div style={{ display: 'flex', justifyContent: 'space-around'}}>
       <article style={{
